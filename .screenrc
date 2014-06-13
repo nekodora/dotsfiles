@@ -44,6 +44,7 @@ msgminwait 1
 # 画面の一番下の行を反転させてハードステータス表示
 # 背景緑 文字白
 hardstatus alwayslastline "%{= gY}[%m/%d %02c:%s] %{gW} %-w%{= wk}%n %t%{-}%+w"
+#hardstatus alwayslastline "%{= gk}[%m/%d %02c:%s] %{gW} %-w%{= wk}%n %t%{-}%+w"
 # teraterm Eterm風設定用
 #hardstatus alwayslastline "%{= dG}[%m/%d %02c:%s] %{dY} %-w%{=b dC}%n %t%{-}%+w"
 
